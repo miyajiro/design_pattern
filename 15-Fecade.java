@@ -56,4 +56,4 @@ public class Visitor {
             System.out.println("サンキュ！");
         }
     }
-}
+}1
